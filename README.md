@@ -6,7 +6,7 @@ HAPI FHIR authorization hook for the ACED data commons
 
 ## Development
 
-This project uses Maven as the build system. To install Maven on macOS run:
+This project uses [Maven](https://maven.apache.org/) as the build system. To install Maven on macOS run:
 
 ```sh
 brew install mvn
