@@ -1,4 +1,4 @@
-package edu.ohsu.hapi-fhir-auth;
+package edu.ohsu.hapi_fhir_auth;
 
 import static org.junit.Assert.assertTrue;
 
