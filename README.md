@@ -2,9 +2,9 @@
 HAPI FHIR authorization hook for the ACED data commons
 
 - Tracking issue: [ACED-IDP/data_model](https://github.com/ACED-IDP/data_model) — [Add authentication hook for HAPI FHIR service.](https://github.com/ACED-IDP/data_model/issues/34)
-- [Reference](https://hapifhir.io/hapi-fhir/docs/security/authorization_interceptor.html)
-- [AuthorizationInterceptor JavaDoc](https://hapifhir.io/hapi-fhir/apidocs/hapi-fhir-server/ca/uhn/fhir/rest/server/interceptor/auth/AuthorizationInterceptor.html)
-- [AuthorizationInterceptor Source](https://github.com/hapifhir/hapi-fhir/blob/master/hapi-fhir-server/src/main/java/ca/uhn/fhir/rest/server/interceptor/auth/AuthorizationInterceptor.java)
+- [AuthorizationInterceptor Reference](https://hapifhir.io/hapi-fhir/docs/security/authorization_interceptor.html)
+  - [JavaDoc](https://hapifhir.io/hapi-fhir/apidocs/hapi-fhir-server/ca/uhn/fhir/rest/server/interceptor/auth/AuthorizationInterceptor.html)
+  - [Source](https://github.com/hapifhir/hapi-fhir/blob/master/hapi-fhir-server/src/main/java/ca/uhn/fhir/rest/server/interceptor/auth/AuthorizationInterceptor.java)
 
 ## Development
 
